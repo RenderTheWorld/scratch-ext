@@ -53,6 +53,7 @@
     "node_modules/@turbowarp/types/types/scratch-vm-extension.d.ts",
     "types/universal.d.ts",
     "types/turbowarp.d.ts",
+    "types/gandi.d.ts",
     "src/**/*",
     "tsup.config.ts",
     "package.json"
